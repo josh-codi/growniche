@@ -1,0 +1,25 @@
+.vission *{
+    text-align: left;
+}
+.vission{
+    margin: auto;
+}
+.vission_sec_two{
+    background-color: rgb(0, 0, 31);
+    color: ghostwhite;
+    padding: 1.5rem 0 0 2.2rem;
+}
+.vission span{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.vission span *{
+    text-align: center;
+    font-size: 3rem;
+}
+.vission span p{
+    font-size: 1rem;
+    margin-top: 1rem;
+}

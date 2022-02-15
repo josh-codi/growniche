@@ -1,0 +1,20 @@
+.ourService_container{
+    width: 80%;
+    margin: auto;
+    background-color: ghostwhite;
+    padding: 2rem;
+}
+.ourServices_header{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+.a_service{
+    /* margin: 10px; */
+    margin: auto;
+    padding:1rem;
+}
+.a_service_inner{
+    background-color: rgb(209, 208, 255) !important;
+    padding:1rem;
+}

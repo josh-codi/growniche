@@ -1,0 +1,31 @@
+.serviceItem{
+    margin-bottom:2rem;
+    width: 300px;
+    border-radius: 15px;
+    padding-bottom: 1.3rem;
+    position: relative;
+    cursor: pointer;
+    height: fit-content;
+}
+.allItems_inner{
+    justify-content: flex-start;
+}
+.allItems h3{
+    margin-left: 2rem;
+    text-align: left;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #000042;
+}
+/* .itemImage{
+    border-radius: 20%;
+} */
+.b_author{
+    color:#000042;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+.b_price{
+    color:#000042;
+    background-color: #ffcc6c83;
+    padding: 0.4rem;
+}
